@@ -8,7 +8,7 @@
 
 Мой стэк:
 
-<img src="./html.png" alt="html" width="50" height="50"/> <img src="./css(1).png" alt="css" width="50" height="50"/> <img src="./javascript.png" alt="javascript" width="50" height="50"/> <img src="./react.png" alt="react" width="50" height="50"/> <img src="./nodejs.png" alt="nodejs" width="50" height="50"/> <img src="./git-logo.png" alt="git" width="50" height="50"/> <img src="./icons8-mongodb-50.png" alt="mongodb"> <img src="./icons8-postman-api-50" alt="postman"/> <img src="./icons8-git-50.png" alt="git"/> <img src="./icons8-figma-50.png" alt="figma"/>
+<img src="./html.png" alt="html" width="50" height="50"/> <img src="./css(1).png" alt="css" width="50" height="50"/> <img src="./javascript.png" alt="javascript" width="50" height="50"/> <img src="./react.png" alt="react" width="50" height="50"/> <img src="./nodejs.png" alt="nodejs" width="50" height="50"/> <img src="./icons8-mongodb-50.png" alt="mongodb"> <img src="./icons8-postman-api-50" alt="postman"/> <img src="./icons8-git-50.png" alt="git"/> <img src="./icons8-figma-50.png" alt="figma"/>
 
 ##
 
