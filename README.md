@@ -6,8 +6,8 @@
 - :syringe: Вхожу в настоящий азарт при написании кода
 - :dart: Моя цель: стать хорошим специалистом
 
-![](./books.png)Мой стэк:
-![](./html.png)
+<img src="./books.png" alt="steck" width="50" height="50"/>Мой стэк:
+<img src="./html.png" alt="html" width="50" height="50"/>
 
 <div>Icons made by <a href="https://www.flaticon.com/authors/smashicons" title="Smashicons">Smashicons</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 
