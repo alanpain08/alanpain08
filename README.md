@@ -8,7 +8,9 @@
 
 Мой стэк:
 
-<img src="./html.png" alt="html" width="50" height="50"/>
+<img src="./html.png" alt="html" width="50" height="50"/> <img src="./css(1).png" alt="css" width="50" height="50"/> <img src="./javascript.png" alt="javascript" width="50" height="50"/> <img src="./react.png" alt="react" width="50" height="50"/> <img src="./nodejs.png" alt="nodejs" width="50" height="50"/> <img src="./git-logo.png" alt="git" width="50" height="50"/>
+
+##
 
 <div>Icons made by <a href="https://www.flaticon.com/authors/smashicons" title="Smashicons">Smashicons</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 
