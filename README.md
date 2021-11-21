@@ -12,6 +12,10 @@
 
 ##
 
+Связаться со мной: alantsarakov@yandex.ru
+
+##
+
 <div>Icons made by <a href="https://www.flaticon.com/authors/smashicons" title="Smashicons">Smashicons</a> and <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 
 <div>Icons from <a href="https://icons8.ru/" title="Icons8">www.icons8.ru/icons</a></div>
